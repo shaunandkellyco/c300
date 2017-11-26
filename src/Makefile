@@ -17,7 +17,7 @@
 ## along with this library.  If not, see <http://www.gnu.org/licenses/>.
 ##
 
-BINARY = button
+BINARY = main
 
 DEVICE = STM32F030R8
 ## LDSCRIPT = ../stm32f0-discovery.ld
